@@ -15,9 +15,9 @@
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/marina09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="marina09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marina-nascimento-de-oliveira-6a7a15a0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marina-nascimento-de-oliveira-6a7a15a0" height="30" width="40" /></a>
-<a href="https://codesandbox.com/marinaoliveira96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="marinaoliveira96" height="30" width="40" /></a>
+<a href="https://codepen.io/marina09" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="marina09" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marina-nascimento-de-oliveira-6a7a15a0" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marina-nascimento-de-oliveira-6a7a15a0" height="30" width="40" /></a>
+<a href="https://codesandbox.com/marinaoliveira96" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="marinaoliveira96" height="30" width="40" /></a>
 </p>
 
 <br>
